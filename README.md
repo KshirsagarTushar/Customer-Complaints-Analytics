@@ -11,7 +11,7 @@ Finance
 Tableau
 
 # Dashboard 📊
-<a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/SalesInsightsDashboard_17110372111310/Dashboard-Revenue?publish=yes">Sales Insights - Revenue & Profit Analysis
+<a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/CUSTOMERCOMPLAINTSANALYTICS_17346312504190/Dashboard">Customer Complaints Analytics
 
 # Sections 📂
 - Project Objective
@@ -146,4 +146,4 @@ Based on the analysis of customer complaints, the following recommendations can 
 The project highlights critical trends and patterns in customer complaints and its management over time. Complaint volumes peaked in 2018, with notable fluctuations across years, months, and weeks, while a record-breaking daily high was observed in 2012. California emerged as the state with the most complaints, particularly from the "Others" service category, whereas Wyoming recorded the fewest cases. Service categories like "Mortgage" showed exceptional resolution performance with the highest Closed Percentage, while "Bank Services" reported minimal complaints and lower closure rates. Issues such as "Managing an Account" and "Deposits and Withdrawals" dominated the complaints, with most cases being submitted via the Web. Additionally, "Closed with Explanation" stood out as the preferred company response. These insights highlight critical areas for improvement in complaint resolution, service quality, and communication strategies, to improve overall customer satisfaction.
 
 # Relevant Links 🔗
-<a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/SalesInsightsDashboard_17110372111310/Dashboard-Revenue?publish=yes">Tableau Public (Sales Insights - Revenue & Profit Analysis)
+<a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/CUSTOMERCOMPLAINTSANALYTICS_17346312504190/Dashboard">Tableau Public (Customer Complaints Analytics)
